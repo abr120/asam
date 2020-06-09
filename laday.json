@@ -1,0 +1,30 @@
+[
+ {
+    "title":"مغامرات عصام",
+    "provider":"wordpress",
+    "image":"https://raw.githubusercontent.com/abr120/asam/master/142.jpg",
+    "arguments":[
+      "yoodkkaa.wordpress.com",
+      "asam"
+    ]
+  },
+  
+  {
+    "title":"نموش",
+    "provider":"wordpress",
+    "image":"https://raw.githubusercontent.com/abr120/asam/master/120.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+	  "nmooosh"
+    ]
+  },
+      {
+   "title":"اسألوا لبيبة",
+    "provider":"wordpress",
+    "image":"https://raw.githubusercontent.com/abr120/asam/master/138.jpg",
+    "arguments":[
+      "yoodkkaa.wordpress.com",
+      "labiba"
+    ]
+  }
+]
