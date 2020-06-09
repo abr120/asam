@@ -26,5 +26,13 @@
       "yoodkkaa.wordpress.com",
       "labiba"
     ]
+  },
+  {
+    "title":"الاحلام الذهبية",
+    "provider":"overview",
+    "image":"https://raw.githubusercontent.com/abr120/asam/master/167.jpg",
+    "arguments":[
+      "https://raw.githubusercontent.com/abr120/videonline/master/Newfolder/Seasons/Ahlamthahabia.json"
+    ]
   }
 ]

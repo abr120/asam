@@ -30,7 +30,7 @@
         "title":"التقييم وطلب الكرتون",
         "provider":"overview",
         "arguments":[
-          "https://raw.githubusercontent.com/abr120/lobnay/master/Settings.json"
+          "https://raw.githubusercontent.com/abr120/asam/master/Settings.json"
         ]
       }
     ]
